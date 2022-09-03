@@ -16,9 +16,6 @@
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/Slmpire/Moflix"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
     <a href="https://github.com/slmpire/Moflix">View Demo</a>
     ·
     <a href="https://github.com/Slmpire/Moflix/issues">Report Bug</a>
@@ -59,8 +56,8 @@ Moflix home page project
 
 ### Built With
 
-* [![HTML][HTML]][]
-* [![CSS][CSS]][]
+* HTML
+* CSS
 
 
 <!-- CONTRIBUTING -->
